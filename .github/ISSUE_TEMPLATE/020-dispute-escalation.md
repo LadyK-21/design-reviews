@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Wotcher TAG!
+こんにちは TAG-さん!
 
 I'm requesting the TAG express an opinion on a dispute related to:
 
@@ -15,7 +15,7 @@ I'm requesting the TAG express an opinion on a dispute related to:
   - Specification URL: [spec url]
   - Explainer (containing user needs and example code)¹: [url]
   - User research: [url to public summary/results of research]
-  - GitHub issues (if you prefer feedback filed there): [url]
+  - GitHub issues: [url]
   - Primary contacts (and their relationship to the specification): [github usernames]
   - The group where the work on this specification is:
   - Links to major pieces of multi-stakeholder review or discussion of this specification: 
@@ -29,12 +29,6 @@ Explanation of the issue that we'd like the TAG's opinion on:
 Links to the positions of each side in the dispute (e.g., specific github comments):
 
 What steps have already been taken to come to an agreement:
-
-We'd prefer the TAG provide feedback as (please select one):
-
-  - [ ] leave a comment in the following GitHub issue: [url]
-  - [ ] leave review feedback as a comment in this issue and @-notify [github usernames]
-  - [ ] open a new issue in our GitHub repo with the feedback
 
 --------------------------
 
